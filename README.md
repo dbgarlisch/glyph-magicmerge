@@ -6,7 +6,7 @@ connectors.
 ### magicMerge
 
 ```Tcl
-magicmerge <cons>
+magicMerge <cons>
 ```
 Splits cons in such a way that all possible merging can be done when connectors
 overlap.
